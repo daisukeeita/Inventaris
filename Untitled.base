@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags == ["software_engineering/programming_languages/java"]
+    sort: []
+  - type: table
+    name: View
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
