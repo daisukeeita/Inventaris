@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "741cc6d6bcde05b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "03bd0e60c98240da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60ecc4b5e7ff2043",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02cc68b62f437bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "67a4af9b7394588f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e036fb97e68fbaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec020af5f1092906",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#postgresql",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1753f87e7e8942c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08a6edd1d5284f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "047890cd10a6a1b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1799af1ac0e2ee26",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6fce9e306be67547",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "40-49 Project/42 Personal Projects/42.01 Encoder-Application/42.01+0001 README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 42.01+0001 README"
+            }
+          },
+          {
+            "id": "3291875fef48dea6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2e4168a07ad1094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37bb3e1ae29ce843",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "51e97a9de2b2a1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3cbdf6a8d9eb67d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "60ecc4b5e7ff2043",
+  "lastOpenFiles": [
+    "60-69 Reference Library/63_Templates/63.00_Index.md",
+    "60-69 Reference Library/60_Management-for-Library/60.04_Links.md",
+    "60-69 Reference Library/60_Management-for-Library/60.01_Inbox.md",
+    "60-69 Reference Library/60_Management-for-Library/60.00_Index.md",
+    "60-69 Reference Library/64_Code-Snippets-or-Patterns",
+    "60-69 Reference Library/63 Templates/Daily-Session-Template.md",
+    "60-69 Reference Library/63_Templates/Daily-Session-Template.md~",
+    "60-69 Reference Library/63_Templates/New-Topic-Template.md",
+    "60-69 Reference Library/63_Templates/Troubleshooting-Template.md",
+    "60-69 Reference Library/63_Templates/Project-Brief-Template.md",
+    "60-69 Reference Library/63_Templates/Daily-Session-Template.md",
+    "60-69 Reference Library/63_Templates/Code-Snippet-Template.md",
+    "60-69 Reference Library/63_Templates/63.00 Index.md",
+    "60-69 Reference Library/63_Templates",
+    "60-69 Reference Library/62_Cheatsheets-and-Quick-References/PostgreSQL-Credentials.md",
+    "60-69 Reference Library/62_Cheatsheets-and-Quick-References",
+    "60-69 Reference Library/61_Articles-and-Essays/Purge-and-Reinstall-PostgreSQL.md",
+    "60-69 Reference Library/61_Articles-and-Essays/Connection-String-PostgreSQL.md",
+    "60-69 Reference Library/61_Articles-and-Essays",
+    "60-69 Reference Library/60_Management-for-Library/60.01 Inbox.md",
+    "60-69 Reference Library/60_Management-for-Library/60.04 Links.md",
+    "60-69 Reference Library/60_Management-for-Library/60.00 Index.md",
+    "60-69 Reference Library/60_Management-for-Library",
+    "50-59_Education-and-Learning/54_Reading-Notes",
+    "50-59_Education-and-Learning/53-Course-Certification",
+    "50-59_Education-and-Learning/52_Self-Study",
+    "50-59_Education-and-Learning/51_University-or-Formal-Education",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.04_Links.md",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.02_Tasks.md",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.01_Inbox.md",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.00_Index.md",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.00 Index.md",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.04 Links.md",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.02 Tasks.md",
+    "50-59_Education-and-Learning/50_Management-for-Education/50.01 Inbox.md",
+    "50-59_Education-and-Learning/50 Management for Education/50.02 Tasks.md"
+  ]
+}
