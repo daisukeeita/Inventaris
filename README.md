@@ -4,9 +4,9 @@ A collection of my thought, projects, and knowledge.
 
 ## Structure
 
-- [[00.00_Index|00-09_Vault Administration]]
-- [[20.00_Index|20-19 Career]]
-- [[30.00_Index|30-39 Software Engineering]]
-- [[40.00_Index|40-49 Project]]
-- [[50.00_Index|50-59 Education and Learning]]
-- [[60.00_Index|60-69 Reference Library]]
+- [Vault Administration](/00-09_Vault%20Administration/00_Index/00.00_Index.md)
+- [Career](/20-29%20Career/20%20Management%20for%20Career/20.00%20Index.md)
+- [Software Engineering](/30-39%20Software%20Engineering/30%20Management%20for%20Knowledge/30.00%20Index.md)
+- [Projects](/40-49%20Project/40%20Management%20for%20Projects/40.00%20Index.md)
+- [Education and Learning](/50-59%20Education%20and%20Learning/50%20Management%20for%20Education/50.00%20Index.md)
+- [Reference Library](/60-69%20Reference%20Library/60%20Management%20for%20Library/60.00%20Index.md)
