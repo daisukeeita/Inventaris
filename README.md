@@ -1,4 +1,4 @@
-# My Personal Obisidian Vault
+# My Personal Obsidian Vault
 
 A collection of my thought, projects, and knowledge.
 
