@@ -3,8 +3,6 @@ id: 2025-09-16_Daily-Session
 aliases: []
 tags:
   - daily-actions
-  - personal-projects/project-name
-  - work-projects/project-name
 date: "2025-09-16"
 ---
 
@@ -34,6 +32,10 @@ date: "2025-09-16"
 
 **START**: 10:06AM
 **END**: 11:29AM
+
+#### Commands/Codes used
+
+- [[Calling-API-with-Exception-Handling]]
 
 ### Activity 2: Documenting the Exception Handling for Third-Party API
 
